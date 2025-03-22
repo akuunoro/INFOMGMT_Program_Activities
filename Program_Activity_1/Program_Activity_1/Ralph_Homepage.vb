@@ -50,6 +50,7 @@
     Private Sub btn_exithome_Click(sender As Object, e As EventArgs) Handles btn_exithome.Click
 
         Ralph.onetime_users = {{"", ""}}
+        MessageBox.Show("Clearing the database...", "Loading", MessageBoxButtons.OK, MessageBoxIcon.Information)
 
         Dim gotoForm As New Ralph()
         gotoForm.Show()
