@@ -660,7 +660,7 @@ Partial Class Ralph_Homepage
         'pic_home
         '
         Me.pic_home.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_home.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.kissyoubro
+        Me.pic_home.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf2
         Me.pic_home.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.pic_home.ForeColor = System.Drawing.SystemColors.ControlText
         Me.pic_home.IconChar = FontAwesome.Sharp.IconChar.None
