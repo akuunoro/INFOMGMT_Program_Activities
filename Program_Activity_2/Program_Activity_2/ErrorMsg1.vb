@@ -1,4 +1,5 @@
-﻿Public Class Ralph_Homepage
+﻿Public Class ErrorMsg1
+
 
     Private Sub RoundedBtn(ParamArray btnArr() As Button)
 
@@ -6,16 +7,16 @@
         For Each btn As Button In btnArr
             btn.FlatStyle = FlatStyle.Flat
             btn.FlatAppearance.BorderSize = 0
-            btn.BackColor = Color.Indigo
-            btn.ForeColor = Color.Cyan
-            btn.FlatAppearance.MouseOverBackColor = Color.LightPink
+            btn.BackColor = Color.Thistle
+            btn.ForeColor = Color.DarkRed
+            btn.FlatAppearance.MouseOverBackColor = Color.Pink
             btn.FlatAppearance.MouseDownBackColor = Color.Crimson
 
             btn.Cursor = Cursors.Hand
             btn.Font = New Font("Showcard Gothic", 20, FontStyle.Bold)
 
             AddHandler btn.MouseEnter, Sub(s, e) btn.ForeColor = Color.Black
-            AddHandler btn.MouseLeave, Sub(s, e) btn.ForeColor = Color.Cyan
+            AddHandler btn.MouseLeave, Sub(s, e) btn.ForeColor = Color.DarkRed
             AddHandler btn.MouseDown, Sub(s, e) btn.ForeColor = Color.White
             AddHandler btn.MouseUp, Sub(s, e) btn.ForeColor = Color.Black
 
@@ -41,23 +42,11 @@
             btn.Region = New Region(radius)
         Next
     End Sub
-
-
-    Private Sub Ralph_Homepage_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        RoundedBtn(btn_exithome)
+    Private Sub ErrorMsg1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        RoundedBtn(btn_ok)
     End Sub
 
-    Private Sub btn_exithome_Click(sender As Object, e As EventArgs) Handles btn_exithome.Click
-
-        Ralph.onetime_users = {{"", ""}}
-        MessageBox.Show("Clearing the database...", "Loading", MessageBoxButtons.OK, MessageBoxIcon.Information)
-
-        Dim gotoForm As New Ralph()
-        gotoForm.Show()
+    Private Sub btn_ok_Click(sender As Object, e As EventArgs) Handles btn_ok.Click
         Me.Hide()
-    End Sub
-
-    Private Sub pic_home_Click(sender As Object, e As EventArgs) Handles pic_home.Click
-
     End Sub
 End Class

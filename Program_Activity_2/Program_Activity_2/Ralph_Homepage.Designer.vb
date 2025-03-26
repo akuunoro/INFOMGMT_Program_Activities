@@ -90,15 +90,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon
         '
         Me.pic_hpicon.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon.IconSize = 62
-        Me.pic_hpicon.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon.Location = New System.Drawing.Point(0, 0)
         Me.pic_hpicon.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon.Name = "pic_hpicon"
@@ -109,15 +109,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon8
         '
         Me.pic_hpicon8.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon8.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon8.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon8.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon8.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon8.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon8.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon8.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon8.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon8.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon8.IconSize = 62
-        Me.pic_hpicon8.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon8.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon8.Location = New System.Drawing.Point(701, 0)
         Me.pic_hpicon8.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon8.Name = "pic_hpicon8"
@@ -128,15 +128,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon24
         '
         Me.pic_hpicon24.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon24.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon24.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon24.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon24.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon24.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon24.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon24.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon24.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon24.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon24.IconSize = 62
-        Me.pic_hpicon24.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon24.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon24.Location = New System.Drawing.Point(2, 493)
         Me.pic_hpicon24.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon24.Name = "pic_hpicon24"
@@ -147,15 +147,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon16
         '
         Me.pic_hpicon16.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon16.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon16.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon16.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon16.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon16.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon16.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon16.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon16.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon16.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon16.IconSize = 62
-        Me.pic_hpicon16.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon16.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon16.Location = New System.Drawing.Point(701, 493)
         Me.pic_hpicon16.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon16.Name = "pic_hpicon16"
@@ -166,15 +166,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon9
         '
         Me.pic_hpicon9.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon9.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon9.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon9.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon9.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon9.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon9.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon9.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon9.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon9.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon9.IconSize = 62
-        Me.pic_hpicon9.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon9.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon9.Location = New System.Drawing.Point(701, 70)
         Me.pic_hpicon9.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon9.Name = "pic_hpicon9"
@@ -185,15 +185,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon10
         '
         Me.pic_hpicon10.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon10.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon10.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon10.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon10.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon10.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon10.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon10.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon10.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon10.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon10.IconSize = 62
-        Me.pic_hpicon10.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon10.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon10.Location = New System.Drawing.Point(701, 139)
         Me.pic_hpicon10.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon10.Name = "pic_hpicon10"
@@ -204,15 +204,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon11
         '
         Me.pic_hpicon11.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon11.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon11.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon11.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon11.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon11.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon11.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon11.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon11.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon11.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon11.IconSize = 62
-        Me.pic_hpicon11.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon11.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon11.Location = New System.Drawing.Point(701, 208)
         Me.pic_hpicon11.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon11.Name = "pic_hpicon11"
@@ -223,15 +223,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon15
         '
         Me.pic_hpicon15.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon15.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon15.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon15.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon15.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon15.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon15.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon15.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon15.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon15.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon15.IconSize = 62
-        Me.pic_hpicon15.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon15.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon15.Location = New System.Drawing.Point(701, 420)
         Me.pic_hpicon15.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon15.Name = "pic_hpicon15"
@@ -242,15 +242,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon14
         '
         Me.pic_hpicon14.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon14.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon14.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon14.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon14.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon14.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon14.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon14.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon14.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon14.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon14.IconSize = 62
-        Me.pic_hpicon14.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon14.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon14.Location = New System.Drawing.Point(701, 349)
         Me.pic_hpicon14.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon14.Name = "pic_hpicon14"
@@ -261,15 +261,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon13
         '
         Me.pic_hpicon13.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon13.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon13.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon13.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon13.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon13.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon13.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon13.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon13.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon13.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon13.IconSize = 62
-        Me.pic_hpicon13.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon13.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon13.Location = New System.Drawing.Point(701, 277)
         Me.pic_hpicon13.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon13.Name = "pic_hpicon13"
@@ -280,15 +280,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon1
         '
         Me.pic_hpicon1.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon1.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon1.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon1.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon1.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon1.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon1.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon1.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon1.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon1.IconSize = 62
-        Me.pic_hpicon1.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon1.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon1.Location = New System.Drawing.Point(90, -2)
         Me.pic_hpicon1.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon1.Name = "pic_hpicon1"
@@ -299,15 +299,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon2
         '
         Me.pic_hpicon2.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon2.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon2.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon2.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon2.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon2.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon2.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon2.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon2.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon2.IconSize = 62
-        Me.pic_hpicon2.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon2.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon2.Location = New System.Drawing.Point(177, 0)
         Me.pic_hpicon2.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon2.Name = "pic_hpicon2"
@@ -318,15 +318,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon3
         '
         Me.pic_hpicon3.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon3.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon3.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon3.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon3.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon3.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon3.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon3.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon3.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon3.IconSize = 62
-        Me.pic_hpicon3.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon3.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon3.Location = New System.Drawing.Point(264, 0)
         Me.pic_hpicon3.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon3.Name = "pic_hpicon3"
@@ -337,15 +337,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon4
         '
         Me.pic_hpicon4.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon4.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon4.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon4.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon4.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon4.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon4.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon4.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon4.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon4.IconSize = 62
-        Me.pic_hpicon4.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon4.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon4.Location = New System.Drawing.Point(351, 0)
         Me.pic_hpicon4.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon4.Name = "pic_hpicon4"
@@ -356,15 +356,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon5
         '
         Me.pic_hpicon5.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon5.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon5.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon5.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon5.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon5.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon5.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon5.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon5.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon5.IconSize = 62
-        Me.pic_hpicon5.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon5.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon5.Location = New System.Drawing.Point(439, 0)
         Me.pic_hpicon5.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon5.Name = "pic_hpicon5"
@@ -375,15 +375,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon6
         '
         Me.pic_hpicon6.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon6.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon6.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon6.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon6.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon6.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon6.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon6.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon6.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon6.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon6.IconSize = 62
-        Me.pic_hpicon6.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon6.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon6.Location = New System.Drawing.Point(526, 0)
         Me.pic_hpicon6.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon6.Name = "pic_hpicon6"
@@ -394,15 +394,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon7
         '
         Me.pic_hpicon7.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon7.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon7.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon7.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon7.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon7.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon7.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon7.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon7.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon7.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon7.IconSize = 62
-        Me.pic_hpicon7.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon7.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon7.Location = New System.Drawing.Point(613, 0)
         Me.pic_hpicon7.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon7.Name = "pic_hpicon7"
@@ -413,15 +413,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon17
         '
         Me.pic_hpicon17.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon17.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon17.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon17.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon17.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon17.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon17.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon17.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon17.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon17.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon17.IconSize = 62
-        Me.pic_hpicon17.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon17.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon17.Location = New System.Drawing.Point(613, 493)
         Me.pic_hpicon17.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon17.Name = "pic_hpicon17"
@@ -432,15 +432,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon18
         '
         Me.pic_hpicon18.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon18.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon18.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon18.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon18.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon18.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon18.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon18.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon18.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon18.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon18.IconSize = 62
-        Me.pic_hpicon18.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon18.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon18.Location = New System.Drawing.Point(526, 493)
         Me.pic_hpicon18.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon18.Name = "pic_hpicon18"
@@ -451,15 +451,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon19
         '
         Me.pic_hpicon19.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon19.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon19.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon19.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon19.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon19.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon19.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon19.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon19.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon19.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon19.IconSize = 62
-        Me.pic_hpicon19.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon19.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon19.Location = New System.Drawing.Point(439, 493)
         Me.pic_hpicon19.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon19.Name = "pic_hpicon19"
@@ -470,15 +470,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon20
         '
         Me.pic_hpicon20.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon20.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon20.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon20.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon20.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon20.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon20.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon20.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon20.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon20.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon20.IconSize = 62
-        Me.pic_hpicon20.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon20.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon20.Location = New System.Drawing.Point(351, 493)
         Me.pic_hpicon20.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon20.Name = "pic_hpicon20"
@@ -489,15 +489,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon21
         '
         Me.pic_hpicon21.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon21.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon21.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon21.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon21.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon21.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon21.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon21.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon21.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon21.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon21.IconSize = 62
-        Me.pic_hpicon21.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon21.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon21.Location = New System.Drawing.Point(264, 493)
         Me.pic_hpicon21.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon21.Name = "pic_hpicon21"
@@ -508,15 +508,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon22
         '
         Me.pic_hpicon22.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon22.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon22.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon22.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon22.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon22.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon22.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon22.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon22.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon22.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon22.IconSize = 62
-        Me.pic_hpicon22.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon22.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon22.Location = New System.Drawing.Point(177, 493)
         Me.pic_hpicon22.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon22.Name = "pic_hpicon22"
@@ -527,15 +527,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon23
         '
         Me.pic_hpicon23.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon23.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon23.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon23.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon23.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon23.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon23.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon23.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon23.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon23.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon23.IconSize = 62
-        Me.pic_hpicon23.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon23.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon23.Location = New System.Drawing.Point(90, 493)
         Me.pic_hpicon23.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon23.Name = "pic_hpicon23"
@@ -546,15 +546,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon25
         '
         Me.pic_hpicon25.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon25.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon25.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon25.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon25.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon25.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon25.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon25.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon25.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon25.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon25.IconSize = 62
-        Me.pic_hpicon25.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon25.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon25.Location = New System.Drawing.Point(2, 420)
         Me.pic_hpicon25.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon25.Name = "pic_hpicon25"
@@ -565,15 +565,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon26
         '
         Me.pic_hpicon26.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon26.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon26.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon26.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon26.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon26.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon26.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon26.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon26.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon26.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon26.IconSize = 62
-        Me.pic_hpicon26.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon26.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon26.Location = New System.Drawing.Point(2, 349)
         Me.pic_hpicon26.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon26.Name = "pic_hpicon26"
@@ -584,15 +584,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon27
         '
         Me.pic_hpicon27.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon27.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon27.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon27.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon27.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon27.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon27.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon27.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon27.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon27.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon27.IconSize = 62
-        Me.pic_hpicon27.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon27.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon27.Location = New System.Drawing.Point(2, 277)
         Me.pic_hpicon27.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon27.Name = "pic_hpicon27"
@@ -603,15 +603,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon28
         '
         Me.pic_hpicon28.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon28.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon28.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon28.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon28.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon28.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon28.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon28.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon28.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon28.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon28.IconSize = 62
-        Me.pic_hpicon28.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon28.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon28.Location = New System.Drawing.Point(2, 208)
         Me.pic_hpicon28.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon28.Name = "pic_hpicon28"
@@ -622,15 +622,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon29
         '
         Me.pic_hpicon29.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon29.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon29.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon29.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon29.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon29.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon29.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon29.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon29.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon29.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon29.IconSize = 62
-        Me.pic_hpicon29.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon29.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon29.Location = New System.Drawing.Point(2, 139)
         Me.pic_hpicon29.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon29.Name = "pic_hpicon29"
@@ -641,15 +641,15 @@ Partial Class Ralph_Homepage
         'pic_hpicon30
         '
         Me.pic_hpicon30.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_hpicon30.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_hpicon30.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_hpicon30.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_hpicon30.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon30.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon30.ForeColor = System.Drawing.Color.Transparent
         Me.pic_hpicon30.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_hpicon30.IconColor = System.Drawing.Color.Transparent
         Me.pic_hpicon30.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_hpicon30.IconSize = 62
-        Me.pic_hpicon30.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_hpicon30.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_hpicon30.Location = New System.Drawing.Point(0, 70)
         Me.pic_hpicon30.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_hpicon30.Name = "pic_hpicon30"
@@ -660,7 +660,7 @@ Partial Class Ralph_Homepage
         'pic_home
         '
         Me.pic_home.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_home.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.kissyoubro
+        Me.pic_home.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf4
         Me.pic_home.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.pic_home.ForeColor = System.Drawing.SystemColors.ControlText
         Me.pic_home.IconChar = FontAwesome.Sharp.IconChar.None

@@ -56,8 +56,4 @@
         gotoForm.Show()
         Me.Hide()
     End Sub
-
-    Private Sub pic_home_Click(sender As Object, e As EventArgs) Handles pic_home.Click
-
-    End Sub
 End Class

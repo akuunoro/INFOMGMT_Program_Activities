@@ -125,7 +125,7 @@ Public Class Ralph
 
 
         If ValidateUser(username, password) Then
-            Dim gotoForm As New mailOTP()
+            Dim gotoForm As New Ralph_Homepage()
             gotoForm.Show()
             Me.Hide()
         ElseIf String.IsNullOrEmpty(onetime_users(0, 0)) AndAlso String.IsNullOrEmpty(onetime_users(0, 1)) Then

@@ -94,15 +94,15 @@ Partial Class ErrorMsg2
         'pic_box1
         '
         Me.pic_box1.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_box1.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon1
+        Me.pic_box1.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon1
         Me.pic_box1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_box1.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_box1.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_box1.ForeColor = System.Drawing.Color.Transparent
         Me.pic_box1.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_box1.IconColor = System.Drawing.Color.Transparent
         Me.pic_box1.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_box1.IconSize = 182
-        Me.pic_box1.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_box1.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_box1.Location = New System.Drawing.Point(23, 106)
         Me.pic_box1.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_box1.Name = "pic_box1"

@@ -114,7 +114,7 @@ Partial Class Ralph
         '
         Me.tb_password.BackColor = System.Drawing.Color.MediumPurple
         Me.tb_password.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.tb_password.Font = New System.Drawing.Font("Gill Sans MT", 24.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.tb_password.Font = New System.Drawing.Font("Gill Sans MT", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.tb_password.ForeColor = System.Drawing.Color.Cyan
         Me.tb_password.ImeMode = System.Windows.Forms.ImeMode.[On]
         Me.tb_password.Location = New System.Drawing.Point(167, 366)
@@ -128,15 +128,15 @@ Partial Class Ralph
         'pic_licon
         '
         Me.pic_licon.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_licon.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon
+        Me.pic_licon.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon
         Me.pic_licon.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_licon.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_licon.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_licon.ForeColor = System.Drawing.Color.Transparent
         Me.pic_licon.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_licon.IconColor = System.Drawing.Color.Transparent
         Me.pic_licon.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_licon.IconSize = 62
-        Me.pic_licon.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_licon.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_licon.Location = New System.Drawing.Point(9, 0)
         Me.pic_licon.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_licon.Name = "pic_licon"
@@ -147,15 +147,15 @@ Partial Class Ralph
         'pic_box
         '
         Me.pic_box.BackColor = System.Drawing.Color.DarkSlateBlue
-        Me.pic_box.BackgroundImage = Global.Program_Activity_2.My.Resources.Resources.wolf_icon1
+        Me.pic_box.BackgroundImage = Global.Program_Activity_1.My.Resources.Resources.wolf_icon1
         Me.pic_box.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
-        Me.pic_box.ErrorImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_box.ErrorImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_box.ForeColor = System.Drawing.Color.Transparent
         Me.pic_box.IconChar = FontAwesome.Sharp.IconChar.None
         Me.pic_box.IconColor = System.Drawing.Color.Transparent
         Me.pic_box.IconFont = FontAwesome.Sharp.IconFont.[Auto]
         Me.pic_box.IconSize = 94
-        Me.pic_box.InitialImage = Global.Program_Activity_2.My.Resources.Resources.wolf3
+        Me.pic_box.InitialImage = Global.Program_Activity_1.My.Resources.Resources.wolf3
         Me.pic_box.Location = New System.Drawing.Point(318, 80)
         Me.pic_box.Margin = New System.Windows.Forms.Padding(0)
         Me.pic_box.Name = "pic_box"
